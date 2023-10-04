@@ -1,22 +1,27 @@
 ## Privacy Policy
 
-### This privacy policy ("policy") will help you understand how [company name] ("us", "we", "our") uses and protects the data you provide to us when you visit and use [blog URL] ("blog", "service").
+This privacy policy ("policy") will help you understand how TMT.AI ("us", "we", "our") uses and protects the data you provide to us when you visit and use "https://duddie.io" website or "Dude" application service ("website", "service", "application service").
 We reserve the right to change this policy at any given time, of which you will be promptly updated. If you want to make sure that you are up to date with the latest changes, we advise you to frequently visit this page.
-What User Data We Collect
-When you visit the blog, we may collect the following data:
+
+### What User Data We Collect
+When you visit the website, we may collect the following data:
+    • Your IP address.
+When you visit the application service, we may collect the following data:
     • Your IP address.
     • Your contact information and email address.
     • Other information such as interests and preferences.
-    • Data profile regarding your online behavior on our blog.
-Why We Collect Your Data
+    • Data profile regarding your online behavior on our service.
+
+### Why We Collect Your Data
 We are collecting your data for several reasons:
     • To better understand your needs.
     • To improve our services and products.
     • To send you promotional emails containing the information we think you will find interesting.
     • To contact you to fill out surveys and participate in other types of market research.
     • To customize our blog according to your online behavior and personal preferences.
-Safeguarding and Securing the Data
-[company name] is committed to securing your data and keeping it confidential. [company name] has done all in its power to prevent data theft, unauthorized access, and disclosure by implementing the latest technologies and software, which help us safeguard all the information we collect online.
+
+### Safeguarding and Securing the Data
+TMT.AI is committed to securing your data and keeping it confidential. TMT.AI has done all in its power to prevent data theft, unauthorized access, and disclosure by implementing the latest technologies and software, which help us safeguard all the information we collect online.
 Our Cookie Policy
 Once you agree to allow our blog to use cookies, you also agree to use the data it collects regarding your online behavior (analyze web traffic, web pages you visit and spend the most time on).
 The data we collect by using cookies is used to customize our blog to your needs. After we use the data for statistical analysis, the data is completely removed from our systems.
